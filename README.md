@@ -1,3 +1,9 @@
+#NOTE
+Original repo: https://github.com/joshnewans/serial_motor_demo
+This is modified for 4 motors.
+
+
+
 # ROS/Arduino Serial Motor Demo
 
 This is demonstration of a ROS 2 interface to an Arduino running differential-drive motor control code.
